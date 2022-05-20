@@ -1,0 +1,5 @@
+Tugas Magang :
+a. Instalasi Windows 7
+b. Pembuatan kabel ethernet / LAN / RJ45
+c. Mempelajari dokumentasi framework bootstrap
+d. Mempelajari MySQL di PMI
